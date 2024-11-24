@@ -1,0 +1,29 @@
+{
+    "AllDates": [
+      {
+        "Date": "01/10/2024",
+        "patients registered": 234,
+        "Treated": 200,
+        "Operation": 150,
+        "Discharge": 100,
+        "Recover": 80
+      },
+      {
+        "Date": "01/11/2024",
+        "patients registered": 534,
+        "Treated": 400,
+        "Operation": 160,
+        "Discharge": 120,
+        "Recover": 70
+      },
+      {
+        "Date": "01/12/2024",
+        "patients registered": 639,
+        "Treated": 500,
+        "Operation": 250,
+        "Discharge": 200,
+        "Recover": 56
+      }
+    ]
+  }
+  
